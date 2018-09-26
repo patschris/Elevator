@@ -22,4 +22,4 @@ In order to use one of these methods, you have to change the value of the variab
  - `make` to compile
  - `make clean` to delete the object files and the executable
  - `make run` to execute the program
- - `make check` to run valgrind to check for memory leaks.
+ - `make check` to run valgrind to check for memory leaks
