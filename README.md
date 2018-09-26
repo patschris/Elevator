@@ -19,3 +19,7 @@ The cost of the optimal solution equal to : MinCost = min<sub>i=0</sub><sup>nfl<
 In order to use one of these methods, you have to change the value of the variable VERSION in the Makefile, clean and re-compile the program.
 
 ## Makefile
+ - `make` to compile
+ - `make clean` to delete the object files and the executable
+ - `make run` to execute the program
+ - `make check` to run valgrind to check for memory leaks.
