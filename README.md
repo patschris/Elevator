@@ -14,7 +14,8 @@ The cost of the optimal solution equal to : MinCost = min<sub>i=0</sub><sup>nfl<
 - Recursion (REC)
 - Recursion with memoization (MEM)
 - Dynamic programming (DP) 
-- Brute force (BF).
-<br/>In order to use one of these methods, you have to change the value of the variable VERSION in the Makefile, clean and re-compile the program.
+- Brute force (BF)
+<br/>
+In order to use one of these methods, you have to change the value of the variable VERSION in the Makefile, clean and re-compile the program.
 
 ## Makefile
